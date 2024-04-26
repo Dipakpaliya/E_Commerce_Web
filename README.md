@@ -10,3 +10,4 @@ step-6:Change the path of images according to your computer in "AddProduct.java"
 step-7:Now Setup is done ,run the project.
 
 The report file is added with repository to get the idea of project.
+
