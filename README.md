@@ -1,4 +1,7 @@
-This project is developed for enhancing the skill purposes.
+Developed a website named “QuickMart” that facilitates interaction between customers and sellers through a
+virtual marketplace with a simple registration and login process. For security purposes, we utilized frontend
+technologies (JSP, CSS, JS), backend (Java Servlet), and database (MySQL).
+
 'Here the steps you can follow to run the project
 
 Step-1:Make sure you have installed Tomcat 9,Apache netbeans IDE 12.9,MySQL and JDK for environment.
